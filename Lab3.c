@@ -6,5 +6,5 @@ int main(){
     b = a << 4; 
     printf("%x\n",b); 
     b = a&c; 
-    printf("%x"b); 
+    printf("%x",b); 
 }

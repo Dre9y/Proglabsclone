@@ -1,4 +1,5 @@
 #include <stdio.h>
+#include <math.h>
 int main()
 {
     float z1,z2,a;
